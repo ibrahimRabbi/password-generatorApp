@@ -1,0 +1,16 @@
+ #input{
+     border: 1px solid gray;
+     border-radius: 10px;
+     outline: none;
+ }
+ .col-lg-6{
+     background-image: linear-gradient(to right,rgb(25, 25, 180,0.75),purple);
+ }
+  .bv{
+      border: 2px solid white;
+      background: none;
+      outline: none;
+      padding: 10px;
+      border-radius: 15px;
+      transform: translateY(20px);
+  }
